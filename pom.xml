@@ -246,7 +246,7 @@
 	                    <additionalparam>
 							-Xdoclint:none
 	                    </additionalparam>
-						<failOnError>false</failOnError>
+						
 					</configuration>
                 </plugin>
 
